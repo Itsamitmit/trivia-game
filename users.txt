@@ -1,0 +1,11 @@
+abc|123|0|
+test|test|0|
+admin|AaBbCcDd#|0|
+blabla|hello|0|
+super|trooper|0|
+super2|trooper2|0|
+bilby|m0unt41ns|0|
+trivia_king|KING|0|
+hackerman|TriCeRaCop|0|
+mrhemulin|flowerz|0|1
+bambababy|peanuts|5|1,2
